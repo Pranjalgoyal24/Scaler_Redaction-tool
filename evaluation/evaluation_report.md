@@ -1,4 +1,4 @@
-# 📊 PII Redaction & Anonymization Evaluation Report
+#  PII Redaction & Anonymization Evaluation Report
 
 ## 1. Executive Summary
 
@@ -109,12 +109,12 @@ VALIDATION RESULT
 Original PII occurrences : 1,994
 PII values still present : 0
 
-✅ NO ORIGINAL PII LEAKAGE DETECTED
+NO ORIGINAL PII LEAKAGE DETECTED
 
 Structural validation:
   Body paragraphs : 1006 → 1006
   Tables          : 76 → 76
-✅ Document structure preserved.
+ Document structure preserved.
 =================================================================
 VALIDATION PASSED
 =================================================================
